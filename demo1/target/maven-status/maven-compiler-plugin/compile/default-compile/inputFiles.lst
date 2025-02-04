@@ -1,0 +1,6 @@
+/home/aswathi/Desktop/2025/demo1/src/main/java/com/example/spring_boot/demo1/Demo1Application.java
+/home/aswathi/Desktop/2025/demo1/src/main/java/com/example/spring_boot/demo1/contract/DepartmentDTO.java
+/home/aswathi/Desktop/2025/demo1/src/main/java/com/example/spring_boot/demo1/controller/DepartmentController.java
+/home/aswathi/Desktop/2025/demo1/src/main/java/com/example/spring_boot/demo1/model/Department.java
+/home/aswathi/Desktop/2025/demo1/src/main/java/com/example/spring_boot/demo1/repository/DepartmentRepository.java
+/home/aswathi/Desktop/2025/demo1/src/main/java/com/example/spring_boot/demo1/service/DepartmentService.java
